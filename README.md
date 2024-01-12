@@ -1,21 +1,6 @@
-### Hey, Lucas Montano do canal Lucas Montano aqui! 👋
+### Pyrex Sites! 👋
 
-## Quer mandar sugestão de artigos e tópicos? 
-Manda direto pro [Tony](https://chat.openai.com/g/g-IaNiHmwSC-the-tony) que nós vamos selecionar os melhores para gravar o próximo video.
-
-## Quer ter aula comigo?
-no Youtube temos a turma de membros que recebe acesso a video aulas sobre algoritmos, estrutura de dados, POO e mais. torne-se membro para obter acesso clicando [aqui](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg/join);
-
-se tu tá procurando o lugar certo para quem quer Desenvolver Aplicativos eu recomendo se inscrever [aqui](https://webinar.appacademy.dev/free);
-
-## Procurando indicações?
-
-tudo que tu encontrar de link aqui embaixo eu ganho algo de alguma forma se tu clicar;
-eu recomendo apenas comprar se tu estava pensando em fazer isso mesmo e quer apoiar o canal;
-
-## Livros Recomendados
-
-### Livros que vou ler em 2024
+### Algumas de nossas criações abaixo! 👇🏻👇🏻
 
 - [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.com.br/s?k=Life+3.0%3A+Being+Human+in+the+Age+of+Artificial+Intelligence&i=stripbooks&camp=1789&creative=9325&linkCode=ur2&linkId=ba321d377e1d052dca0dc18b6d9c503a&tag=lucasmontan05-20) by Max Tegmark
 - [The Song of the Cell](https://www.amazon.com.br/s?k=The+Song+of+the+Cell&i=stripbooks&camp=1789&creative=9325&linkCode=ur2&linkId=deabefcf7e732988b5fb9fa79609e5e5&tag=lucasmontan05-20) by by Siddhartha Mukherjee
@@ -51,16 +36,12 @@ Recomendo utilizar a Higlobe para receber de clientes americanos. Eles possuem o
 Receba um bonus de $50 USD na primeira transferência usando a Higlobe! Se tu se cadastra com o [esse link](https://bit.ly/higlobe-montano-12-23)
 
 ## Redes
-[Twitter](https://twitter.com/lucas_montano) o proxy do meu cerebro, quase tudo passa por la (com pouco filtro);
-
-[Youtube](https://www.youtube.com/lucasmontano) se quiser almocar assistindo um video meu;
-
-[Instagram](https://instagram.com/lucasmontano/) compartilho mais da minha vida pessoal nos Stories;
+[Instagram](https://instagram.com/pyrexsites/) compartilho mais da minha vida pessoal nos Stories;
 
 ```kotlin
-printf("sim essa pagina foi desenvolvida com muito amor")
+printf("Sites produzidos com carinho! 💗")
 ```
 
-tu pode deixar um LIKE clicando na estrelinha do [repo](https://github.com/lucasmontano/lucasmontano.com/) dela;
+
 
 
