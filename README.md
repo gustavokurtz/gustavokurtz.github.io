@@ -1,6 +1,6 @@
 ### Pyrex Sites! 👋
 
-### Quem somos nós
+### Quem somos nós?
 Uma empresa de TI voltada na criação de Sites e Software para empresas e pessoas! 💙
 
 ### Algumas de nossas criações abaixo! 👇🏻👇🏻
