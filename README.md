@@ -6,7 +6,6 @@ Uma empresa de TI voltada na criação de Sites e Software para empresas e pesso
 ### Algumas de nossas criações abaixo! 👇🏻👇🏻
 
 - [CinnaBon](https://www.cinnabon.pk/) 
-- [ColleRock](https://collerock.cmsagency.it/) 
 - [FashionCrab](https://www.fashioncrab.com/) 
 - [SwapCs](https://www.swapcs.co.uk/) 
 - [SuitSupply](https://suitsupply.com/en-us/) 
@@ -15,11 +14,8 @@ Uma empresa de TI voltada na criação de Sites e Software para empresas e pesso
 - [TShirt Lephant](http://www.tshirtelephant.com/ ) 
 - [EyeCandyoOptics](http://eyecandyoptics.com/ )
 - [WoodenMade](https://www.woodenmade.nl/ )
-- [SimplyPreppedNutrition](http://www.simplypreppednutrition.com/ )
 - [FashionTv](http://fashiontv.ae/)
 - [UofCanada](https://uofcanada.edu.eg)
-- [RiseArchitecture](www.risearchitecture.com)
-- [Abhibus](https://www.abhibus.com/)
 - [HomeFoodi](https://homefoodi.com/)
 - [Zaaroz](https://zaaroz.in/)
 
