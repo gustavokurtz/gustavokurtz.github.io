@@ -25,7 +25,8 @@ Uma empresa de TI voltada na criação de Sites e Software para empresas e pesso
 
 
 ### Isso é PyrexSites 💙
-se tu ja estava pensando em comprar o curso do ​⁠Filipe Deschamps tu pode usar [esse link](https://go.hotmart.com/N85311804K) pra apoiar o canal;
+
+Sempre fazendo sites responsivos e com a melhor experiência para seu usuário!
 
 ## Redes
 [Instagram](https://instagram.com/pyrexsites/) compartilho mais da minha vida pessoal nos Stories;
