@@ -18,6 +18,10 @@ Uma empresa de TI voltada na criação de Sites e Software para empresas e pesso
 - [UofCanada](https://uofcanada.edu.eg)
 - [HomeFoodi](https://homefoodi.com/)
 - [Zaaroz](https://zaaroz.in/)
+- [GordonDentistry](https://gordondentistry.net/)
+- [FloridaLiveHealthy](https://floridalivehealthy.com/)
+- [TheSmileDesign](https://www.thesmiledesign.com/)
+- [NguyenPsychiatry](https://nguyenpsychiatry.com/)
 
 
 ### Isso é PyrexSites 💙
