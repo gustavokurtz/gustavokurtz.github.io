@@ -32,7 +32,7 @@ Sempre fazendo sites responsivos e com a melhor experiência para seu usuário!
 [Instagram](https://instagram.com/pyrexsites/) 
 
 ```kotlin
-printf("Sites produzidos com carinho! 💗")
+printf("Sites produzidos com carinho! 💙")
 ```
 
 
