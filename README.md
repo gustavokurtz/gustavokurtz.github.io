@@ -29,7 +29,7 @@ Uma empresa de TI voltada na criação de Sites e Software para empresas e pesso
 Sempre fazendo sites responsivos e com a melhor experiência para seu usuário!
 
 ## Redes
-[Instagram](https://instagram.com/pyrexsites/) compartilho mais da minha vida pessoal nos Stories;
+[Instagram](https://instagram.com/pyrexsites/) 
 
 ```kotlin
 printf("Sites produzidos com carinho! 💗")
